@@ -26,8 +26,8 @@
 
         <div class="social-header">
             <ul>
-                <li><a href="#"><i class="lab la-linkedin social-icon"></i></a></li>
-                <li><a href="#"><i class="lab la-instagram social-icon"></i></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/elodie-bidard-534852203/"><i class="lab la-linkedin social-icon"></i></a></li>
+                <li><a target="_blank" href="#"><i class="lab la-instagram social-icon"></i></a></li>
                 <li><a target="_blank" href="https://github.com/UnderMemory"><i class="lab la-github social-icon"></i></a></li>
             </ul>
         </div>
