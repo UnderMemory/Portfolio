@@ -13,7 +13,7 @@
     
     <div class="nav-container">
         <header>
-            <a href="index.html" class="logo">Elodie Bidard</a>
+            <a href="index.php" class="logo">Elodie Bidard</a>
 
             <nav>
                 <ul>
