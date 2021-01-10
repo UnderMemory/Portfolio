@@ -17,9 +17,9 @@
 
             <nav>
                 <ul>
-                    <li><a href="#">Mon Expérience </a></li>
-                    <li><a href="#">Mes Compétences</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="#experiences">Mon Expérience </a></li>
+                    <li><a href="#competences">Mes Compétences</a></li>
+                    <li><a href="#hobbies">Hobbies</a></li>
                 </ul>
             </nav>
         </header>
@@ -66,7 +66,7 @@
 
     </div>
 
-    <section class="featured">
+    <section class="featured" id="experiences">
         <div class="left">
             <div class="inner transition2">
                 <p class="subtitle">Mes derniers Projets</p>
@@ -81,7 +81,7 @@
         <img class="right transition2 shadow-img" src="images/project_medium2.jpg" alt="featured project">
     </section>
 
-    <section class="skills">
+    <section class="skills" id="competences">
         <div class="skills-container">
             <ul>
                 <li class="transition2">
@@ -111,7 +111,7 @@
         </div>
     </section>
 
-    <section class="portfolio">
+    <section class="portfolio" id="hobbies">
 
         <div class="portfolio-container transition3">
             <div class="portfolio-left">
