@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Elodie Bidard - Développeuse Web</title>
     <link rel="stylesheet" href="global.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;500;600&display=swap" rel="stylesheet">
@@ -89,26 +89,23 @@
                         <img src="images/icon-ux.svg" alt="UI/UX ICON">
                     </div>
                     <p class="skill-title">UI UX Design</p>
-                    <p class="featured-desc skill-desc">Lorem ipsum dolor, sit amet consectetur adipisicing 
-                        elit. Asperiores, odit?</p>
+                    <p class="featured-desc skill-desc">Création d'interfaces intuitives pour l'utilisateur.</p>
                 </li> 
                 
                 <li class="transition2">
                     <div class="icon-container two">
                         <img src="images/icon-frontend.svg" alt="Icon Frontend">
                     </div>
-                    <p class="skill-title">Frontend Development</p>
-                    <p class="featured-desc skill-desc">Lorem ipsum dolor, sit amet consectetur adipisicing 
-                        elit. Asperiores, odit?</p>
+                    <p class="skill-title">Développement Frontend</p>
+                    <p class="featured-desc skill-desc">Création de designs innovants pour vos projets.</p>
                 </li> 
                 
                 <li class="transition2">
                     <div class="icon-container three">
                         <img src="images/icon-logo.svg" alt="Icon Logo">
                     </div>
-                    <p class="skill-title">Identity Design</p>
-                    <p class="featured-desc skill-desc">Lorem ipsum dolor, sit amet consectetur adipisicing 
-                        elit. Asperiores, odit?</p>
+                    <p class="skill-title">Identité d'entreprise</p>
+                    <p class="featured-desc skill-desc">Adaptation du site aux couleurs de l'entreprise.</p>
                 </li>
             </ul>
         </div>
@@ -119,8 +116,8 @@
         <div class="portfolio-container transition3">
             <div class="portfolio-left">
                 <div class="inner">
-                    <p class="subtitle">Guitar App</p>
-                    <p class="featured-title">Fretastic.com</p>
+                    <p class="subtitle">Blog Photo <i class="las la-camera-retro"></i></p>
+                    <a class="featured-title underline-hover">Voir le site</a>
                     <p class="featured-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis 
                         veritatis sint, eum voluptates quo voluptas qui quibusdam tempora cum minus nisi nulla
                          maxime, sapiente dolore eligendi facere! Repellendus, repellat quae.</p>
@@ -132,8 +129,8 @@
         <div class="portfolio-container transition3">
             <div class="portfolio-left">
                 <div class="inner">
-                    <p class="subtitle">Guitar App</p>
-                    <p class="featured-title">Fretastic.com</p>
+                    <p class="subtitle">Journal de Chi <i class="las la-paw"></i></p>
+                    <a class="featured-title underline-hover">Voir le site</a>
                     <p class="featured-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis 
                         veritatis sint, eum voluptates quo voluptas qui quibusdam tempora cum minus nisi nulla
                          maxime, sapiente dolore eligendi facere! Repellendus, repellat quae.</p>
@@ -145,8 +142,8 @@
         <div class="portfolio-container transition3">
             <div class="portfolio-left">
                 <div class="inner">
-                    <p class="subtitle">Guitar App</p>
-                    <p class="featured-title">Fretastic.com</p>
+                    <p class="subtitle">Tests de Jeux Vidéos <i class="las la-gamepad"></i></p>
+                    <a class="featured-title underline-hover">Voir le site</a>
                     <p class="featured-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis 
                         veritatis sint, eum voluptates quo voluptas qui quibusdam tempora cum minus nisi nulla
                          maxime, sapiente dolore eligendi facere! Repellendus, repellat quae.</p>
