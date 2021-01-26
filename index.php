@@ -130,7 +130,7 @@
             <div class="portfolio-left">
                 <div class="inner">
                     <p class="subtitle">Journal de Chi <i class="las la-paw"></i></p>
-                    <a class="featured-title underline-hover">Voir le site</a>
+                    <a href='https://601082e2101bb400e92adc1b--compassionate-heisenberg-ebd2f8.netlify.app/' class="featured-title underline-hover">Voir le site</a>
                     <p class="featured-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis 
                         veritatis sint, eum voluptates quo voluptas qui quibusdam tempora cum minus nisi nulla
                          maxime, sapiente dolore eligendi facere! Repellendus, repellat quae.</p>
